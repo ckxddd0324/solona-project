@@ -1,0 +1,20 @@
+{
+  "name": "Number #0002",
+  "symbol": "MINA",
+  "description": "Collection of 5 Mina penguin on the blockchain. This is the number 2/5.",
+  "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

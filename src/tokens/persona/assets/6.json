@@ -1,0 +1,15 @@
+{
+  "name": "Random #7",
+  "symbol": "RNDM",
+  "description": "Random image generated with Draftbit with Persona attribute",
+  "image": "7.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "7.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

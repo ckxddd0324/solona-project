@@ -25,6 +25,11 @@ export const ContentContainer: FC = (props) => {
             </Link>
           </li>
           <li>
+            <Link href="/minttoken">
+              <a>Mint Token</a>
+            </Link>
+          </li>
+          <li>
             <Link href="/candymachine">
               <a>Candy Machine</a>
             </Link>
